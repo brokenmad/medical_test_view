@@ -6325,8 +6325,8 @@ html[data-theme-color='skin-9'] {
 	--light: #fcffbf;
 	--btn-radius: 50px;
 	--accordion-shadow: 2px 2px 0 rgb(240 88 141 / 20%);
-	--font-base: 'DM Sans';
-	--font-title: 'DM Sans';
+	--font-base: 'Fira Sans Condensed';
+	--font-title: 'Fira Sans Condensed';
 }
 .sticky-header-wrapper.is-fixed:not(.sticky-no) .main-bar {
 	position: fixed;
